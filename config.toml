@@ -1,0 +1,4 @@
+baseURL = 'https://thaodang.dev/'
+languageCode = 'en-us'
+title = 'thaodang.dev'
+theme = "papermod"
