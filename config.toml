@@ -2,3 +2,7 @@ baseURL = 'https://thaodang.dev/'
 languageCode = 'en-us'
 title = "Thao's Notes"
 theme = "papermod"
+params:
+    homeInfoParams:
+        Title: Hello, I'm Thao Dang
+        Content: I keep a development log for some of the project I'm working on, you can find them here
