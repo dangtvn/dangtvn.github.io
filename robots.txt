@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thaodang.dev/sitemap.xml
