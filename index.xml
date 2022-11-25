@@ -4,17 +4,7 @@
     <title>Thao&#39;s Notes</title>
     <link>https://thaodang.dev/</link>
     <description>Recent content on Thao&#39;s Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thaodang.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TuborRepo và câu chuyện monorepo setup</title>
-      <link>https://thaodang.dev/posts/everyday-learning/tuborrepo-va-cau-chuyen-monorepo-setup/</link>
-      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://thaodang.dev/posts/everyday-learning/tuborrepo-va-cau-chuyen-monorepo-setup/</guid>
-      <description>Tổ chức code từ monolithic đến microservices rồi monorepo</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thaodang.dev/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
