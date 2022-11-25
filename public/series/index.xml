@@ -4,6 +4,16 @@
     <title>Series on Thao&#39;s Notes</title>
     <link>https://thaodang.dev/series/</link>
     <description>Recent content in Series on Thao&#39;s Notes</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://thaodang.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thaodang.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everyday Learing</title>
+      <link>https://thaodang.dev/series/everyday-learing/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thaodang.dev/series/everyday-learing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
