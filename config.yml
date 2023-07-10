@@ -57,10 +57,10 @@ params:
     homeInfoParams:
       Title: Hello, I'm Thao Dang
       Content: >
-        I keep everything I learing in the world here...
+        I keep everything I learned in the world here...
     
     socialIcons:
     - name: github
-      url: "https://github.com/sudodt"
+      url: "https://github.com/dangtvn"
     - name: linkedin
-      url: "https://www.linkedin.com/in/thao-dang-a62201178/"
+      url: "https://www.linkedin.com/in/thaodang-id-vn/"

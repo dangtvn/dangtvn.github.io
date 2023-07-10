@@ -2,39 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thaodang.dev/archives/</loc>
+  </url><url>
     <loc>https://thaodang.dev/categories/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/tags/everyday/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/series/everyday-learing/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/categories/everydaylearing/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/tags/monorepo/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/categories/monorepo/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/posts/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thaodang.dev/series/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thaodang.dev/tags/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thaodang.dev/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/posts/everyday-learning/tuborrepo-va-cau-chuyen-monorepo-setup/</loc>
-    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thaodang.dev/archives/</loc>
   </url>
 </urlset>
