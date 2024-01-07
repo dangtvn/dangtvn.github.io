@@ -1,5 +1,5 @@
-baseURL: "https://thaodang.dev/"
-title: "Thao's Notes"
+baseURL: "https://thao.day/"
+title: "An Ordinary Man In An Ordinary World"
 theme: "hugo-PaperMod"
 
 enableRobotsTXT: true
@@ -57,10 +57,10 @@ params:
     homeInfoParams:
       Title: Hello, I'm Thao Dang
       Content: >
-        I keep everything I learned in the world here...
+        I keep everything I have learned in the world here...
     
     socialIcons:
     - name: github
-      url: "https://github.com/dangtvn"
+      url: "https://github.com/thaodangday"
     - name: linkedin
-      url: "https://www.linkedin.com/in/thaodang-id-vn/"
+      url: "https://www.linkedin.com/in/thao-day/"
