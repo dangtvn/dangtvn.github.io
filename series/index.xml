@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on Thao&#39;s Notes</title>
-    <link>https://thaodang.dev/series/</link>
-    <description>Recent content in Series on Thao&#39;s Notes</description>
+    <title>Series on An Ordinary Man In An Ordinary World</title>
+    <link>https://thao.day/series/</link>
+    <description>Recent content in Series on An Ordinary Man In An Ordinary World</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://thaodang.dev/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://thao.day/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

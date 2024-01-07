@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thaodang.dev/archives/</loc>
+    <loc>https://thao.day/</loc>
   </url><url>
-    <loc>https://thaodang.dev/categories/</loc>
+    <loc>https://thao.day/archives/</loc>
   </url><url>
-    <loc>https://thaodang.dev/series/</loc>
+    <loc>https://thao.day/categories/</loc>
   </url><url>
-    <loc>https://thaodang.dev/tags/</loc>
+    <loc>https://thao.day/series/</loc>
   </url><url>
-    <loc>https://thaodang.dev/</loc>
+    <loc>https://thao.day/tags/</loc>
   </url>
 </urlset>
