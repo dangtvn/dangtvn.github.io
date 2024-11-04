@@ -1,5 +1,5 @@
 baseURL: "https://thao.day/"
-title: "An Ordinary Man In An Ordinary World"
+title: "thao.day"
 theme: "hugo-PaperMod"
 
 enableRobotsTXT: true
@@ -55,12 +55,12 @@ params:
         - JSON
 
     homeInfoParams:
-      Title: Hello, I'm Thao Dang
+      Title: Hey, I'm Thao Dang
       Content: >
         I keep everything I have learned in the world here...
     
     socialIcons:
     - name: github
-      url: "https://github.com/thaodangday"
+      url: "https://github.com/heythaoday"
     - name: linkedin
       url: "https://www.linkedin.com/in/thao-day/"
